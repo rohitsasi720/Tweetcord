@@ -1,4 +1,6 @@
-## Tweetcord
+
+## Tweetcord ![draft_prev_ui (1)](https://user-images.githubusercontent.com/24205008/208153862-8c831f10-ea39-403f-a7fb-cafbd49c7996.png)
+
 
 Discord bot built using discord.js library which can be used to get real time tweets (using twitter api) of tech remote jobs in the any discord channel.
 The keywords can be customized to the needs of the user.
