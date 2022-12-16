@@ -10,6 +10,7 @@ Create a `.env` file and the following token
 - TWITTER_CONSUMER_SECRET=<VALUE>
 - TWITTER_ACCESS_TOKEN_KEY=<VALUE>
 - TWITTER_ACCESS_TOKEN_SECRET=<VALUE>
+Run `npm i` and `npm start`
 <br/>
 <br/>
 
