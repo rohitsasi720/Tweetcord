@@ -1,0 +1,134 @@
+[
+  {
+    "channelId": "1053037766360969296",
+    "delay": 600000,
+    "randomDelay": 600000,
+    "embed": true,
+    "spoiler": false,
+    "parameters": {
+      "q": "devops junior hiring exclude:retweets",
+      "result_type": "recent",
+      "count": 3
+    }
+  },
+  {
+    "channelId": "1053037826561806517",
+    "delay": 300000,
+    "randomDelay": 600000,
+    "embed": true,
+    "spoiler": false,
+    "parameters": {
+      "q": "devops fresher hiring exclude:retweets",
+      "result_type": "recent",
+      "count": 3
+    }
+  },
+  {
+    "channelId": "1053038176605843466",
+    "delay": 600000,
+    "randomDelay": 600000,
+    "embed": true,
+    "spoiler": false,
+    "parameters": {
+      "q": "devops trainee hiring exclude:retweets",
+      "result_type": "recent",
+      "count": 3
+    }
+  },
+  {
+    "channelId": "1053038321124769882",
+    "delay": 300000,
+    "randomDelay": 600000,
+    "embed": true,
+    "spoiler": false,
+    "parameters": {
+      "q": "fresher remote hiring exclude:retweets",
+      "result_type": "recent",
+      "count": 3
+    }
+  },
+  {
+    "channelId": "1053038398966878230",
+    "delay": 600000,
+    "randomDelay": 600000,
+    "embed": true,
+    "spoiler": false,
+    "parameters": {
+      "q": "junior remote hiring exclude:retweets",
+      "result_type": "recent",
+      "count": 3
+    }
+  },
+  {
+    "channelId": "1053040272004628530",
+    "delay": 300000,
+    "randomDelay": 600000,
+    "embed": true,
+    "spoiler": false,
+    "parameters": {
+      "q": "developer remote hiring exclude:retweets",
+      "result_type": "recent",
+      "count": 3
+    }
+  },
+  {
+    "channelId": "1053242593296781352",
+    "delay": 300000,
+    "randomDelay": 600000,
+    "embed": true,
+    "spoiler": false,
+    "parameters": {
+      "q": "junior site reliability remote exclude:retweets",
+      "result_type": "recent",
+      "count": 3
+    }
+  },
+  {
+    "channelId": "1053242629191651438",
+    "delay": 600000,
+    "randomDelay": 600000,
+    "embed": true,
+    "spoiler": false,
+    "parameters": {
+      "q": "junior sre remote exclude:retweets",
+      "result_type": "recent",
+      "count": 3
+    }
+  },
+  {
+    "channelId": "1053243307620319292",
+    "delay": 300000,
+    "randomDelay": 600000,
+    "embed": true,
+    "spoiler": false,
+    "parameters": {
+      "q": "trainee sre remote exclude:retweets",
+      "result_type": "recent",
+      "count": 3
+    }
+  },
+  {
+    "channelId": "1053243755525840897",
+    "delay": 600000,
+    "randomDelay": 600000,
+    "embed": true,
+    "spoiler": false,
+    "parameters": {
+      "q": "trainee site reliability remote exclude:retweets",
+      "result_type": "recent",
+      "count": 3
+    }
+  },
+  {
+    "channelId": "1053243850946256908",
+    "delay": 300000,
+    "randomDelay": 600000,
+    "embed": true,
+    "spoiler": false,
+    "parameters": {
+      "q": "fresher sre remote exclude:retweets",
+      "result_type": "recent",
+      "count": 3
+    }
+  }
+]
