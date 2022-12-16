@@ -4,6 +4,16 @@ Discord bot built using discord.js library which can be used to get real time tw
 The keywords can be customized to the needs of the user.
 <br/>
 
+Create a `.env` file and the following token 
+- DISCORD_BOT_TOKEN=<VALUE>
+- TWITTER_CONSUMER_KEY=<VALUE>
+- TWITTER_CONSUMER_SECRET=<VALUE>
+- TWITTER_ACCESS_TOKEN_KEY=<VALUE>
+- TWITTER_ACCESS_TOKEN_SECRET=<VALUE>
+<br/>
+<br/>
+
+
 | ![1st](https://user-images.githubusercontent.com/24205008/208127498-7f6dcccc-e793-453d-86c1-0f2e8e85fe29.jpg) |
 |:--:| 
 | *Image of the tweet link fetched shown inside the terminal* |
