@@ -6,7 +6,7 @@ Discord bot built using discord.js library which can be used to get real time tw
 The keywords can be customized to the needs of the user.
 <br/>
 
-Create a `.env` file and add the following token 
+In the `.env` file add the following token 
 - DISCORD_BOT_TOKEN=<VALUE>
 - TWITTER_CONSUMER_KEY=<VALUE>
 - TWITTER_CONSUMER_SECRET=<VALUE>
@@ -14,7 +14,20 @@ Create a `.env` file and add the following token
 - TWITTER_ACCESS_TOKEN_SECRET=<VALUE>
 <br/>
  
-Run `npm i` and `npm start`
+Run `npm i` and `npm start` 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+If you have docker installed then run the following commands : <br/> 
+
+```bash 
+docker build -t <image-name> .
+``` 
+```bash
+docker container run -d <image-name>
+```
 <br/>
 <br/>
 
